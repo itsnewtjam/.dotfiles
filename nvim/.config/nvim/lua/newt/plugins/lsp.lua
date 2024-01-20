@@ -106,6 +106,8 @@ return {
                 intelephense = {
                   environment = {
                     includePaths = {
+                      "/home/newt/ref/joomla/joomla-cms",
+                      "/home/newt/ref/joomla/framework/vendor/joomla"
                     }
                   },
                 }
